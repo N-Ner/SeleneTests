@@ -6,7 +6,6 @@ base_url = ".test-env.scalr.com/"
 farmsquery = ".test-env.scalr.com/#/farms?query="
 
 
-
 def test_goto_container(containerid):
     config.browser_name
     browser.visit(
