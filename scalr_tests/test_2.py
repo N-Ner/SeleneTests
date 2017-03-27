@@ -5,9 +5,9 @@ password = '**********'
 containerid = '8104b4ffeb57'
 farmid = '9800012'
 farmrole = 'base-ubuntu1404'
-#Uncomment the line for Scope settings
-#scope = "img[data-qtip='This Role is defined in the Scalr Scope']"
-#scope = "img[data-qtip='TThis Role is defined in the Account Scope']"
+#  Uncomment the line for Scope settings.
+#      scope = "img[data-qtip='This Role is defined in the Scalr Scope']"
+#      scope = "img[data-qtip='TThis Role is defined in the Account Scope']"
 scope = "img[data-qtip='This Role is defined in the Environment Scope']"
 
 
